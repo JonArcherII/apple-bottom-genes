@@ -1,0 +1,23 @@
+{
+    "association": "Gaucher's Disease",
+    "genes": [
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 13, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs76763715",
+            "positions": [
+                155205634
+            ],
+            "chromosome": 1,
+            "names": [
+                "GBA",
+                "GCase"
+            ],
+            "alleles": [
+                {
+                    "allele1": "C",
+                    "allele2": "C"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "association": "Parkinson's Disease",
+    "genes": [
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 13, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs34637584",
+            "positions": [
+                40340400,
+                40734202
+            ],
+            "chromosome": 12,
+            "names": [
+                "LRRK2",
+                "PARKS8"
+            ],
+            "alleles": [
+                {
+                    "allele1": "A",
+                    "allele2": "A"
+                },
+                {
+                    "allele1": "A",
+                    "allele2": "G"
+                }
+            ]
+        },
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 13, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs76763715",
+            "positions": [
+                155205634
+            ],
+            "chromosome": 1,
+            "names": [
+                "GBA",
+                "GCase"
+            ],
+            "alleles": [
+                {
+                    "allele1": "C",
+                    "allele2": "T"
+                }
+            ]
+        }
+    ]
+}

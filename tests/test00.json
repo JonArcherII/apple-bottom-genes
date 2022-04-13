@@ -1,0 +1,14 @@
+{
+    "psuedofile": [
+        "rsid chromosome position allele1 allele2",
+        "rs76763715 1 155205634 T C",
+        "rs34637584 12 40340400 A A"
+    ],
+    "expected": {
+        "number": 2,
+        "rsids": [
+            "rs76763715",
+            "rs34637584"
+        ]
+    }
+}
