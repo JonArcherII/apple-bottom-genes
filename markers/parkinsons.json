@@ -41,6 +41,138 @@
                     "allele2": "T"
                 }
             ]
+        },
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 14, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs35095275",
+            "positions": [
+                155205043
+            ],
+            "chromosome": 1,
+            "names": [
+                "GBA"
+            ],
+            "alleles": [
+                {
+                    "allele1": "A",
+                    "allele2": "G"
+                }
+            ]
+        },
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 14, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs421016",
+            "positions": [
+                155235252
+            ],
+            "chromosome": 1,
+            "names": [
+                "GBA: L444P"
+            ],
+            "alleles": [
+                {
+                    "allele1": "A",
+                    "allele2": "G"
+                },
+                {
+                    "allele1": "G",
+                    "allele2": "G"
+                }
+            ]
+        },
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 14, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs188286943",
+            "positions": [
+                46662452
+            ],
+            "chromosome": 16,
+            "names": [
+                "VPS35"
+            ],
+            "alleles": [
+                {
+                    "allele1": "C",
+                    "allele2": "T"
+                }
+            ]
+        },
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 14, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs2736990",
+            "positions": [
+                90678541
+            ],
+            "chromosome": 4,
+            "names": [
+                "SNCA",
+                "PARK1"
+            ],
+            "alleles": [
+                {
+                    "allele1": "C",
+                    "allele2": "C"
+                },
+                {
+                    "allele1": "C",
+                    "allele2": "T"
+                }
+            ]
+        },
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 14, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs104893875",
+            "positions": [
+                89828170
+            ],
+            "chromosome": 4,
+            "names": [
+                "SNCA",
+                "PARK1"
+            ],
+            "alleles": [
+                {
+                    "allele1": "A",
+                    "allele2": "G"
+                }
+            ]
+        },
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 14, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs9347683",
+            "positions": [
+                162728023
+            ],
+            "chromosome": 6,
+            "names": [
+                "PARK2",
+                "PRKN"
+            ],
+            "alleles": [
+                {
+                    "allele1": "A",
+                    "allele2": "A"
+                },
+                {
+                    "allele1": "A",
+                    "allele2": "C"
+                },
+                {
+                    "allele1": "C",
+                    "allele2": "C"
+                }
+            ]
+        },
+        {
+            "source": "“Genetics and Parkinson’s Disease.” n.d. PdCure.org. Accessed April 14, 2022. http://www.pdcure.org/Genetics-Parkinsons.html.",
+            "rsid": "rs45478900",
+            "positions": [],
+            "chromosome": -1,
+            "names": [
+                "PARK6",
+                "PINK1"
+            ],
+            "alleles": []
         }
     ]
 }
